@@ -28,7 +28,7 @@ Dieses Repository demonstriert die Implementierung einer erweiterten Authentifiz
 
 1. Clonen des Repositories
     ````bash
-    git clone 
+    git clone git@github.com:tech-nickel/oauth-step-up.git
     ````
 
 2. Um den den Docker-Compose-Stack zu starten, folgenden Befehl ausführen
