@@ -4,7 +4,6 @@
     Dieses Repository dient ausschließlich zu Demonstrationszwecken, daher wird dringend davon abgeraten diese Konfiguration für jegliche Art von Produktivumgebungen zu verwenden!
 
 ---
-<br>
 Dieses Repository demonstriert die Implementierung einer erweiterten Authentifizierungsmethode unter Verwendung von OAuth. Durch die Step-up Authentifizierung in diesem PoC, wird eine zusätzliche Sicherheitsebene für den Zugriff auf bestimmte geschützte Ressourcen implementiert, bei der bei Bedarf eine zusätzliche Authentifizierung verlangt wird.
 
 ## Architektur
